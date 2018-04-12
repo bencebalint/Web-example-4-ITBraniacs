@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1.title {
+  text-align: center;
+}
+
+a {
+  font-size: 260px;
+}

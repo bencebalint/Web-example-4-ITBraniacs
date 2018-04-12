@@ -1,0 +1,35 @@
+body {
+  background-color: grey;
+  color: #2B65EC;
+  text-align: center;
+}
+
+h1.title {
+  font-size: 150px;
+  text-align: center;
+}
+
+p.form {
+  font-size: 35px;
+  color: white;
+}
+
+input.num {
+  font-size: 15px;
+  color: #99004d;
+}
+
+a {
+  text-decoration-color: #2B65EC;
+  font-size: 100px;
+}
+
+.submit {
+    align-content: center;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px; /* button size */
+    text-align: center;
+    font-size: 16px;
+}
